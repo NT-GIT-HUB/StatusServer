@@ -47,3 +47,6 @@ Add no final do arquivo:
 Salve e feche o arquivo 
 
 ```service cron reload```
+
+select-editor
+EDITOR=nano crontab -e
